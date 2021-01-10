@@ -8,7 +8,7 @@ var maxWeightVal = 2;
 var maxInputVal = 1; //Input will be from [0, maxInputVal]
 
 
-var populationSize = 1;
+var populationSize = 100;
 var max_time_alive = 20; //In seconds
 var max_generations = 500;
 
