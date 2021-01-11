@@ -1,9 +1,10 @@
 # Self-Driving-Car-AI
-Made a self driving car AI that learns using Genetic Mutation Algorithm.
-Created in Processing P5.js environment.
-Current neural network is a fully connected network with 16 inputs, 24 hidden layer 1 nodes, 18 hidden layer 2 nodes, 12 hidden layer 3 nodes, 8 hidden layer 4 nodes, and finally 6 outputs.
+I have created a self driving car AI that learns using Genetic Mutation Algorithm simulator! It operates using the Processing P5.js environment.
+Currently, the neural network is a fully connected network with 16 inputs, 24 hidden layer 1 nodes, 18 hidden layer 2 nodes, 12 hidden layer 3 nodes, 8 hidden layer 4 nodes, and finally 6 outputs.
 
 You can view it by running index.html on a local server! Different keys (case insensitive) do different commands:
+
+(By default builder mode is on so to start simulation you first have to toggle builder mode off using 'b'!)
 
 'a': Save your current drawn map as a JSON file
 
