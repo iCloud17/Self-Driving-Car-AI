@@ -51,4 +51,6 @@ You can view it by running index.html on a local server! Different keys (case in
 
 'z': Removes all walls. Buildermode must be enabled for this.
 
+You can use the simulator at https://icloud17.github.io/Self-Driving-Car-AI/ .
+
 Recommended to do Ctrl+Shift+I and go to console to read data feed while using this!
