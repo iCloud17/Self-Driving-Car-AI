@@ -1,4 +1,6 @@
-# Self-Driving-Car-AI
+# Self-Driving-Car-AI 
+Simulator Link: https://icloud17.github.io/Self-Driving-Car-AI/ .
+
 I have created a self driving car AI that learns using Genetic Mutation Algorithm simulator! It operates using the Processing P5.js environment.
 Currently, the neural network is a fully connected network with 16 inputs, 24 hidden layer 1 nodes, 18 hidden layer 2 nodes, 12 hidden layer 3 nodes, 8 hidden layer 4 nodes, and finally 6 outputs.
 
@@ -50,7 +52,5 @@ You can view it by running index.html on a local server! Different keys (case in
 'y': Increases framerate, i.e, increases simulation speed.
 
 'z': Removes all walls. Buildermode must be enabled for this.
-
-You can use the simulator at https://icloud17.github.io/Self-Driving-Car-AI/ .
 
 Recommended to do Ctrl+Shift+I and go to console to read data feed while using this!
